@@ -106,7 +106,7 @@ plt.savefig("iris_graph.png")
 plt.show()
 ```
 
-![avatar](code\iris_graph.png)
+![avatar](image\iris_graph.png)
 
 Kmeans
 
